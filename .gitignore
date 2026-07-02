@@ -1,0 +1,14 @@
+# Model dan artefak besar
+artifacts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Log
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
